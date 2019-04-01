@@ -1,0 +1,17 @@
+{
+  "name": "newerabot",
+  "version": "1.0.0",
+  "description": "A bot for Dragonball: New Era discord.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon bot"
+  },
+  "author": "steelvoltage",
+  "license": "MIT"
+}
